@@ -184,6 +184,6 @@ concrete values.
 [spirv]: https://www.khronos.org/registry/spir-v/
 [tf-hub-mobilenetv2]: https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification
 [tf-import]: /frontends/tensorflow/
-[tflite-import]: /frontends/tensorflow-lite/
+[tflite-import]: /ml-frameworks/tensorflow/
 [vulkan]: https://www.khronos.org/vulkan/
 [vulkan-sdk]: https://vulkan.lunarg.com/sdk/home/
